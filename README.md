@@ -33,3 +33,9 @@ I checked and found 2 duplicates and decided to delete them.
 The minimum monthly income is 534.74, while the minimum cost of living is 464.49. This narrow margin (only about 70.25 difference) suggests that individuals at the bottom end of the income distribution are living very close to the survival threshold. Any unexpected expenses or price increases could push these individuals into financial hardship.
 
 The average monthly income ( 4244.19) is higher than the average cost of living ( 3705.13), suggesting that, on average, individuals may have a financial buffer. However, the high standard deviations (2116.64 for income and 1982.22 for costs) and wide ranges indicate everyone significant variation, implying that not may actually experience this surplus.
+
+Below are some data and charts to easily compare data with each other in each region.
+
+<img width="520" height="466" alt="image" src="https://github.com/user-attachments/assets/047baa6d-d7e9-493d-804f-81e27b44d40b" />
+
+The bar chart compares total living costs and average monthly incomes across six global regions. In all regions, incomes are higher than living costs, with Asia and Europe having the highest total incomes. Africa and South America have the lowest figures, reflecting more modest economic conditions.
